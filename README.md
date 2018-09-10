@@ -1,5 +1,5 @@
 # OCRWithChinaSoftwareCup
-## 中国软件杯赛题OCR识别开源项目
+## 中国软件杯赛题 工商信息识别赛题OCR识别开源项目
 ### 软件说明
 #### 使用开源库说明
 opencv 2.4 
